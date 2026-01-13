@@ -1,0 +1,3422 @@
+﻿[
+    {
+        "id": 1,
+        "text": "It is okay to be lost. It means you are finding your own way, not just following someone else\u0027s. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 2,
+        "text": "The stars are only visible when it is dark enough. 🌌",
+        "author": "Ralph Waldo Emerson",
+        "category": "late night"
+    },
+    {
+        "id": 3,
+        "text": "Grief is the price we pay for love. 💔",
+        "author": "Queen Elizabeth II",
+        "category": "sad"
+    },
+    {
+        "id": 4,
+        "text": "Healing doesn’t mean the damage never existed. It means the damage no longer controls our lives. 🩹",
+        "author": "Akshay Dubey",
+        "category": "healing"
+    },
+    {
+        "id": 5,
+        "text": "Sometimes, you just need a break. In a beautiful place. Alone. To figure everything out. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 6,
+        "text": "Tears are words that need to be written. 🖤",
+        "author": "Paulo Coelho",
+        "category": "sad"
+    },
+    {
+        "id": 7,
+        "text": "Rock bottom became the solid foundation on which I rebuilt my life. ❤️‍🩹",
+        "author": "J.K. Rowling",
+        "category": "healing"
+    },
+    {
+        "id": 8,
+        "text": "The darker the night, the brighter the stars. 🔭",
+        "author": "Fyodor Dostoevsky",
+        "category": "late night"
+    },
+    {
+        "id": 9,
+        "text": "It hurts because it mattered. 🕯️",
+        "author": "John Green",
+        "category": "sad"
+    },
+    {
+        "id": 10,
+        "text": "Almost everything will work again if you unplug it for a few minutes, including you. 🩹",
+        "author": "Anne Lamott",
+        "category": "healing"
+    },
+    {
+        "id": 11,
+        "text": "3 AM is the hour of writers, painters, poets, over-thinkers, and silent seekers. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 12,
+        "text": "Sadness flies away on the wings of time. 🖤",
+        "author": "Jean de La Fontaine",
+        "category": "sad"
+    },
+    {
+        "id": 13,
+        "text": "You are allowed to scream, you are allowed to cry, but do not give up. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 14,
+        "text": "Quiet people have the loudest minds. 🌫️",
+        "author": "Stephen Hawking",
+        "category": "late night"
+    },
+    {
+        "id": 15,
+        "text": "Every life has a measure of sorrow, and sometimes this is what awakens us. 🕯️",
+        "author": "Steven Tyler",
+        "category": "sad"
+    },
+    {
+        "id": 16,
+        "text": "Some days you survive. Other days you heal. Both count. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 17,
+        "text": "Night teaches things the day is too loud to hear. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 18,
+        "text": "Not all wounds bleed. Some just stay quiet. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 19,
+        "text": "Healing begins the moment you stop blaming yourself. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 20,
+        "text": "There is a certain honesty that only appears after midnight. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 21,
+        "text": "You miss people even when they’re still alive. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 22,
+        "text": "You are not broken, you are becoming. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 23,
+        "text": "Late nights reveal the thoughts you hide all day. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 24,
+        "text": "Some goodbyes don’t get words. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 25,
+        "text": "Growth hurts before it heals. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 26,
+        "text": "The moon listens when no one else does. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 27,
+        "text": "You loved deeply, and that’s nothing to regret. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 28,
+        "text": "Healing is not linear, and that’s okay. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 29,
+        "text": "Insomnia is just your soul asking questions. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 30,
+        "text": "Some memories ache more than injuries. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 31,
+        "text": "You don’t have to rush becoming whole. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 32,
+        "text": "The quiet after midnight feels heavier than noise. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 33,
+        "text": "It hurts most when you expected forever. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 34,
+        "text": "You survived things you thought would end you. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 35,
+        "text": "Loneliness feels louder at night. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 36,
+        "text": "Some pain changes you, not breaks you. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 37,
+        "text": "Healing means choosing yourself again. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 38,
+        "text": "Nighttime is where honesty lives. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 39,
+        "text": "You carry grief quietly so no one worries. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 40,
+        "text": "Rest is also progress. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 41,
+        "text": "The stars feel closer when you’re tired. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 42,
+        "text": "You lost them, but you found yourself. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 43,
+        "text": "Healing starts when you stop pretending. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 44,
+        "text": "Some nights feel endless for a reason. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 45,
+        "text": "You were soft in a world that was not. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 46,
+        "text": "You don’t need closure to heal. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 47,
+        "text": "Late night thoughts don’t lie. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 48,
+        "text": "Sometimes love leaves scars. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 49,
+        "text": "You are allowed to heal slowly. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 50,
+        "text": "Darkness makes the mind wander. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 51,
+        "text": "Missing someone doesn’t fade easily. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 52,
+        "text": "Healing is choosing peace over answers. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 53,
+        "text": "Midnight understands you. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 54,
+        "text": "Some feelings never get spoken. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 55,
+        "text": "You are stronger than yesterday, quietly. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 56,
+        "text": "The world feels softer after midnight. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 57,
+        "text": "You loved with everything you had. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 58,
+        "text": "Healing is letting go without forgetting. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 59,
+        "text": "Night gives space for truth. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 60,
+        "text": "Some losses change your language. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 216,
+        "text": "Healing is learning how to sit with yourself. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 217,
+        "text": "The night feels heavier when your heart is full. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 218,
+        "text": "Some pain doesn’t scream, it whispers. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 219,
+        "text": "You are allowed to outgrow old versions of yourself. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 220,
+        "text": "Late nights know your real name. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 221,
+        "text": "You carry memories like quiet storms. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 222,
+        "text": "Healing happens when you stop explaining your pain. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 223,
+        "text": "The moon watches without judgment. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 224,
+        "text": "Some love stays even after goodbye. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 225,
+        "text": "You don’t need to be perfect to heal. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 226,
+        "text": "Silence feels different after midnight. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 227,
+        "text": "You mourn people who are still breathing. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 228,
+        "text": "Healing is choosing softness again. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 229,
+        "text": "Nighttime holds unfinished thoughts. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 230,
+        "text": "Some feelings stay longer than people. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 231,
+        "text": "You are not late, you are healing. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 232,
+        "text": "The stars feel closer when you feel alone. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 233,
+        "text": "Heartbreak teaches silence. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 234,
+        "text": "Healing is not erasing, it’s accepting. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 235,
+        "text": "Night turns thoughts into echoes. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 236,
+        "text": "You remember what you never said. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 237,
+        "text": "You survived moments no one knows about. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 238,
+        "text": "Darkness feels honest. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 239,
+        "text": "Some wounds ache in memories. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 240,
+        "text": "Healing is learning to breathe again. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 241,
+        "text": "The night listens patiently. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 242,
+        "text": "You lost what you thought was forever. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 243,
+        "text": "Healing asks for patience, not strength. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 244,
+        "text": "Midnight feels like a confession. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 245,
+        "text": "Some goodbyes echo for years. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 246,
+        "text": "You are allowed to choose peace. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 247,
+        "text": "Night makes emotions louder. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 248,
+        "text": "Love doesn’t always leave cleanly. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 249,
+        "text": "Healing is staying gentle with yourself. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 250,
+        "text": "The quiet can feel overwhelming. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 251,
+        "text": "You carry grief like a shadow. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 252,
+        "text": "Healing begins when you stop running. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 253,
+        "text": "Late nights blur time. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 254,
+        "text": "Some losses stay unfinished. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 255,
+        "text": "You are learning how to be whole. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 256,
+        "text": "The night holds your secrets safely. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 257,
+        "text": "You feel pain because you cared. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 258,
+        "text": "Healing doesn’t need permission. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 259,
+        "text": "Stars feel distant but constant. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 260,
+        "text": "Some memories hurt quietly. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 416,
+        "text": "Healing is trusting yourself again. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 417,
+        "text": "Night makes everything feel closer than it is. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 418,
+        "text": "Some pain never leaves, it just softens. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 419,
+        "text": "You are allowed to rest without guilt. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 420,
+        "text": "Late nights turn thoughts into shadows. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 421,
+        "text": "You grieve versions of people that no longer exist. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 422,
+        "text": "Healing is choosing yourself every day. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 423,
+        "text": "The dark feels honest when the world sleeps. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 424,
+        "text": "Some emotions never learned how to leave. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 425,
+        "text": "You are not weak for feeling deeply. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 426,
+        "text": "Midnight makes everything feel real. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 427,
+        "text": "You loved even when it hurt. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 428,
+        "text": "Healing is letting time do its work. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 429,
+        "text": "The quiet gets heavier after dark. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 430,
+        "text": "Some heartbreaks never make noise. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 431,
+        "text": "You are growing even when it feels slow. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 432,
+        "text": "Night feels like a pause button. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 433,
+        "text": "You miss what felt safe. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 434,
+        "text": "Healing is forgiving yourself first. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 435,
+        "text": "Stars feel different when you’re tired. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 436,
+        "text": "Some tears never fall. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 437,
+        "text": "You don’t owe anyone your healing. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 438,
+        "text": "Night holds the thoughts you hide. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 439,
+        "text": "You remember pain more clearly than joy. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 440,
+        "text": "Healing is learning to let go gently. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 441,
+        "text": "Late nights feel like confessions. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 442,
+        "text": "You carry sadness quietly. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 443,
+        "text": "Healing means staying soft in a hard world. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 444,
+        "text": "Darkness slows everything down. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 445,
+        "text": "Some endings never feel finished. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 616,
+        "text": "Healing is learning how to be alone without fear. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 617,
+        "text": "The night feels slower when you are tired. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 618,
+        "text": "Some sadness becomes part of you. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 619,
+        "text": "You are allowed to pause your life. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 620,
+        "text": "Late nights make memories louder. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 621,
+        "text": "You miss what you never got to finish. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 622,
+        "text": "Healing is choosing calm over chaos. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 623,
+        "text": "The stars feel patient. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 624,
+        "text": "Some pain settles instead of leaving. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 625,
+        "text": "You are not behind, you are healing. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 626,
+        "text": "Midnight feels like honesty. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 627,
+        "text": "You loved with everything you had left. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 628,
+        "text": "Healing means giving yourself grace. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 629,
+        "text": "The quiet grows deeper at night. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 630,
+        "text": "Some losses never stop echoing. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 631,
+        "text": "You are learning how to stay. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 632,
+        "text": "Night feels like a soft ending. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 633,
+        "text": "You grieve in silence. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 634,
+        "text": "Healing is rebuilding slowly. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 635,
+        "text": "Stars watch without questions. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 636,
+        "text": "Some emotions refuse to fade. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 637,
+        "text": "You deserve rest, not guilt. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 638,
+        "text": "Night carries unspoken truths. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 639,
+        "text": "You remember what hurt you. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 640,
+        "text": "Healing is learning to feel safe again. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 641,
+        "text": "Late nights slow the world. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 642,
+        "text": "You lost what felt permanent. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 643,
+        "text": "Healing doesn’t rush. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 644,
+        "text": "The moon keeps quiet company. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 645,
+        "text": "Some endings arrive without warning. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 816,
+        "text": "Healing is allowing yourself to feel everything. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 817,
+        "text": "Night gives space to unfinished thoughts. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 818,
+        "text": "Some sadness never asks to leave. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 819,
+        "text": "You are allowed to change your mind. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 820,
+        "text": "Late nights feel like memories breathing. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 821,
+        "text": "You grieve quietly so others don’t worry. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 822,
+        "text": "Healing is choosing patience over pressure. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 823,
+        "text": "The stars feel steady when nothing else does. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 824,
+        "text": "Some pain becomes familiar. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 825,
+        "text": "You are not weak for needing time. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 826,
+        "text": "Midnight feels like a deep breath. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 827,
+        "text": "You loved even when it hurt deeply. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 828,
+        "text": "Healing is choosing peace again and again. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 829,
+        "text": "Night slows everything down. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 830,
+        "text": "Some memories ache softly. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 831,
+        "text": "You don’t have to explain your healing. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 832,
+        "text": "Late nights make honesty unavoidable. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 833,
+        "text": "You miss the version of them that cared. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 834,
+        "text": "Healing is learning to stay gentle. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 835,
+        "text": "Stars feel closer in silence. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 836,
+        "text": "Some heartbreak never raises its voice. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 837,
+        "text": "You are allowed to start over quietly. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 838,
+        "text": "Night listens without interrupting. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 839,
+        "text": "You carry sorrow with grace. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 840,
+        "text": "Healing means letting yourself be human. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 841,
+        "text": "Late nights feel heavier than days. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 842,
+        "text": "You lost what felt like home. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 843,
+        "text": "Healing doesn’t erase the past. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 844,
+        "text": "The moon keeps quiet company. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 845,
+        "text": "Some goodbyes stay unfinished. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 846,
+        "text": "You are becoming softer and stronger. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 847,
+        "text": "Night turns feelings into echoes. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 848,
+        "text": "You remember pain more than joy. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 849,
+        "text": "Healing is choosing to stay. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 850,
+        "text": "Darkness feels honest. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 851,
+        "text": "Some emotions never fade completely. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 852,
+        "text": "You are allowed to rest. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 853,
+        "text": "Night holds your secrets gently. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 854,
+        "text": "You loved without guarantees. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 855,
+        "text": "Healing is trusting the process. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 856,
+        "text": "Late nights stretch time. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 857,
+        "text": "You carry pain quietly. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 858,
+        "text": "Healing begins with acceptance. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 859,
+        "text": "Stars watch without judgment. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 860,
+        "text": "Some losses never stop hurting. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 861,
+        "text": "You are allowed to move on slowly. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 862,
+        "text": "Night feels like a pause. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 863,
+        "text": "You miss what felt certain. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 864,
+        "text": "Healing means choosing yourself. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 865,
+        "text": "The dark feels calm. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 866,
+        "text": "Some pain becomes memory. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 867,
+        "text": "You are learning how to let go. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 868,
+        "text": "Night makes everything feel deeper. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 869,
+        "text": "You grieve in small moments. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 870,
+        "text": "Healing is staying kind to yourself. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 871,
+        "text": "Late nights soften the world. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 872,
+        "text": "You lost something you believed in. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 873,
+        "text": "Healing doesn’t hurry. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 874,
+        "text": "The moon feels close. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 875,
+        "text": "Some endings stay with you. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 876,
+        "text": "You are becoming whole again. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 877,
+        "text": "Night keeps things quiet. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 878,
+        "text": "You loved even when it scared you. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 879,
+        "text": "Healing is learning to breathe. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 880,
+        "text": "Darkness gives rest. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 881,
+        "text": "Some feelings never disappear. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 882,
+        "text": "You are allowed to feel tired. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 883,
+        "text": "Night holds unfinished stories. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 884,
+        "text": "You remember love more than pain. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 885,
+        "text": "Healing is choosing softness. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 886,
+        "text": "Late nights feel like honesty. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 887,
+        "text": "You carry memories like shadows. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 888,
+        "text": "Healing is allowing change. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 889,
+        "text": "Stars stay constant. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 890,
+        "text": "Some pain stays quiet. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 891,
+        "text": "You are not broken. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 892,
+        "text": "Night gives space to think. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 893,
+        "text": "You miss what was familiar. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 894,
+        "text": "Healing is choosing hope. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 895,
+        "text": "Darkness feels gentle. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 896,
+        "text": "Some love never leaves. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 897,
+        "text": "You are allowed to heal slowly. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 898,
+        "text": "Night keeps your thoughts safe. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 899,
+        "text": "You remember what mattered. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 900,
+        "text": "Healing is learning to trust again. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 901,
+        "text": "Late nights feel endless. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 902,
+        "text": "You loved deeply. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 903,
+        "text": "Healing begins within. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 904,
+        "text": "Stars feel calm. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 905,
+        "text": "Some memories still hurt. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 906,
+        "text": "You are growing quietly. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 907,
+        "text": "Night makes silence louder. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 908,
+        "text": "You lost something important. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 909,
+        "text": "Healing is letting time pass. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 910,
+        "text": "Darkness feels safe. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 911,
+        "text": "Some pain never fully fades. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 912,
+        "text": "You are allowed to feel. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 913,
+        "text": "Night slows the heart. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 914,
+        "text": "You remember love. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 915,
+        "text": "Healing is staying present. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 916,
+        "text": "Late nights bring clarity. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 917,
+        "text": "You grieve what was. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 918,
+        "text": "Healing means letting go. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 919,
+        "text": "Stars feel endless. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 920,
+        "text": "Some endings hurt deeply. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 921,
+        "text": "You are becoming stronger. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 922,
+        "text": "Night feels quiet. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 923,
+        "text": "You loved honestly. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 924,
+        "text": "Healing is choosing yourself first. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 925,
+        "text": "Darkness brings rest. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 926,
+        "text": "Some memories linger. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 927,
+        "text": "You are allowed to heal. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 928,
+        "text": "Night feels endless. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 929,
+        "text": "You miss what you loved. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 930,
+        "text": "Healing is trusting life. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 931,
+        "text": "Late nights feel real. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 932,
+        "text": "You carry love and loss. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 933,
+        "text": "Healing takes time. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 934,
+        "text": "Stars stay quiet. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 935,
+        "text": "Some pain stays. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 936,
+        "text": "You are still here. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 937,
+        "text": "Night holds space. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 938,
+        "text": "You remember everything. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 939,
+        "text": "Healing is continuing. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 940,
+        "text": "Darkness feels calm. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 941,
+        "text": "Some love never fades. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 942,
+        "text": "You are becoming okay. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 943,
+        "text": "Night feels honest. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 944,
+        "text": "You lost what mattered. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 945,
+        "text": "Healing is choosing to live. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 946,
+        "text": "Late nights feel heavy. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 947,
+        "text": "You loved fully. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 948,
+        "text": "Healing is happening. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 949,
+        "text": "Stars feel distant. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 950,
+        "text": "Some endings remain. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 951,
+        "text": "You are enough. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 952,
+        "text": "Night feels slow. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 953,
+        "text": "You remember love most. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 954,
+        "text": "Healing is letting life flow. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 955,
+        "text": "Darkness gives peace. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 956,
+        "text": "Some pain still hurts. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 957,
+        "text": "You are healing. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 958,
+        "text": "Night feels quiet. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 959,
+        "text": "You miss what was. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 960,
+        "text": "Healing continues. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 961,
+        "text": "Late nights feel true. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 962,
+        "text": "You loved honestly. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 963,
+        "text": "Healing is enough. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 964,
+        "text": "Stars remain. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 965,
+        "text": "Some memories remain. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 966,
+        "text": "You are still becoming. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 967,
+        "text": "Night holds stillness. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 968,
+        "text": "You carry love. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 969,
+        "text": "Healing is ongoing. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 970,
+        "text": "Darkness feels gentle. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 971,
+        "text": "Some love stays. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 972,
+        "text": "You are allowed peace. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 973,
+        "text": "Night feels endless. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 974,
+        "text": "You miss deeply. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 975,
+        "text": "Healing is enough for today. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 976,
+        "text": "Late nights feel quiet. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 977,
+        "text": "You loved sincerely. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 978,
+        "text": "Healing is staying. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 979,
+        "text": "Stars feel calm. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 980,
+        "text": "Some feelings stay. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 981,
+        "text": "You are still trying. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 982,
+        "text": "Night feels soft. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 983,
+        "text": "You remember everything. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 984,
+        "text": "Healing keeps going. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 985,
+        "text": "Darkness feels safe. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 986,
+        "text": "Some pain still lingers. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 987,
+        "text": "You are enough as you are. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 988,
+        "text": "Night holds calm. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 989,
+        "text": "You miss quietly. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 990,
+        "text": "Healing is breathing. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 991,
+        "text": "Late nights feel deep. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 992,
+        "text": "You loved bravely. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 993,
+        "text": "Healing is staying alive. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 994,
+        "text": "Stars stay bright. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 995,
+        "text": "Some losses stay. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 996,
+        "text": "You are still healing. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 997,
+        "text": "Night feels honest. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 998,
+        "text": "You remember love. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 999,
+        "text": "Healing is continuing. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1000,
+        "text": "Darkness feels calm. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1001,
+        "text": "Some love remains. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1002,
+        "text": "You are becoming okay. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1003,
+        "text": "Night feels gentle. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1004,
+        "text": "You miss what mattered. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1005,
+        "text": "Healing is choosing to live. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1006,
+        "text": "Late nights feel real. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1007,
+        "text": "You loved truly. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1008,
+        "text": "Healing is happening slowly. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1009,
+        "text": "Stars feel quiet. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1010,
+        "text": "Some pain remains. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1011,
+        "text": "You are still here. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1012,
+        "text": "Night feels calm. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1013,
+        "text": "You remember love most. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1014,
+        "text": "Healing continues quietly. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1015,
+        "text": "Darkness feels peaceful. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1016,
+        "text": "Healing begins the moment you allow yourself to feel. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1017,
+        "text": "Night stretches time into quiet reflection. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1018,
+        "text": "Some sadness never truly leaves. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1019,
+        "text": "You are allowed to grow at your own pace. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1020,
+        "text": "Stars shine brighter when the night is still. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1021,
+        "text": "You grieve what was once cherished. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1022,
+        "text": "Healing is choosing hope in the quiet moments. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1023,
+        "text": "The darkness of night holds secrets softly. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1024,
+        "text": "Some pain lingers as a quiet companion. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1025,
+        "text": "You are allowed to rest without shame. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1026,
+        "text": "Night listens without judgment. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1027,
+        "text": "You loved deeply, even if it ended. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1028,
+        "text": "Healing is the art of patience with yourself. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1029,
+        "text": "Stars are witnesses to our silent thoughts. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1030,
+        "text": "Some endings leave soft echoes in your heart. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1031,
+        "text": "You are growing stronger every day. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1032,
+        "text": "Late nights feel like the world is holding its breath. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1033,
+        "text": "You miss what felt permanent. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1034,
+        "text": "Healing is learning to forgive yourself. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1035,
+        "text": "The dark night gives clarity to thoughts. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1036,
+        "text": "Some pain never fully leaves us. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1037,
+        "text": "You are allowed to start over. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1038,
+        "text": "Night softens even the hardest hearts. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1039,
+        "text": "You remember the ones you lost. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1040,
+        "text": "Healing is a quiet revolution within. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1041,
+        "text": "Stars shine silently over your thoughts. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1042,
+        "text": "Some love leaves gentle scars. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1043,
+        "text": "You are allowed to put yourself first. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1044,
+        "text": "Night makes memories feel closer. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1045,
+        "text": "You grieve in your own way. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1046,
+        "text": "Healing is trusting your own pace. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1047,
+        "text": "Late nights hold all the unspoken words. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1048,
+        "text": "You loved without expecting return. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1049,
+        "text": "Healing comes in small, quiet steps. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1050,
+        "text": "Stars remind us of light in darkness. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1051,
+        "text": "Some memories are bittersweet companions. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1052,
+        "text": "You are stronger than you realize. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1053,
+        "text": "Night feels heavier when you overthink. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1054,
+        "text": "You miss people who changed you. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1055,
+        "text": "Healing is choosing kindness for yourself. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1056,
+        "text": "Stars watch silently over your solitude. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1057,
+        "text": "Some sorrow never speaks its name. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1058,
+        "text": "You are allowed to let go of what hurts. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1059,
+        "text": "Night feels like a soft embrace. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1060,
+        "text": "You grieve what you once held dear. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1061,
+        "text": "Healing is a journey without a map. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1062,
+        "text": "Stars feel closer when the world sleeps. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1063,
+        "text": "Some love never fades completely. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1064,
+        "text": "You are allowed to feel vulnerable. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1065,
+        "text": "Night makes everything feel larger than life. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1066,
+        "text": "You remember the good and the bad. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1067,
+        "text": "Healing means forgiving yourself first. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1068,
+        "text": "Late nights hold quiet revelations. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1069,
+        "text": "You loved without expecting perfection. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1070,
+        "text": "Healing is a gentle persistence. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1071,
+        "text": "Stars feel like distant companions. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1072,
+        "text": "Some endings never truly finish. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1073,
+        "text": "You are allowed to take your time. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1074,
+        "text": "Night carries unspoken truths. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1075,
+        "text": "You grieve silently and deeply. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1076,
+        "text": "Healing is a quiet, patient process. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1077,
+        "text": "Late nights hold secrets of the heart. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1078,
+        "text": "You loved without expecting a return. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1079,
+        "text": "Healing is choosing to live with grace. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1080,
+        "text": "Stars watch over your quiet moments. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1081,
+        "text": "Some pain never truly fades. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1082,
+        "text": "You are allowed to heal at your own pace. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1083,
+        "text": "Night holds the quiet strength of stars. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1084,
+        "text": "You miss what once felt permanent. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1085,
+        "text": "Healing is choosing to live with love. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1086,
+        "text": "Stars remind us of light in darkness. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1087,
+        "text": "Some love never truly fades. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1088,
+        "text": "You are allowed to heal at your own pace. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1089,
+        "text": "Night holds the quiet strength of stars. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1090,
+        "text": "You miss what once felt permanent. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1091,
+        "text": "Healing is choosing to live with love. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1092,
+        "text": "Stars remind us of light in darkness. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1093,
+        "text": "Some pain never truly fades. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1094,
+        "text": "You are allowed to heal at your own pace. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1095,
+        "text": "Night holds the quiet strength of stars. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1096,
+        "text": "You miss what once felt permanent. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1097,
+        "text": "Healing is choosing to live with love. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1098,
+        "text": "Stars remind us of light in darkness. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1099,
+        "text": "Some pain never truly fades. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1100,
+        "text": "You are allowed to heal at your own pace. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1101,
+        "text": "Night holds the quiet strength of stars. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1102,
+        "text": "You miss what once felt permanent. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1103,
+        "text": "Healing is choosing to live with love. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1104,
+        "text": "Stars remind us of light in darkness. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1105,
+        "text": "Some pain never truly fades. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1106,
+        "text": "You are allowed to heal at your own pace. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1107,
+        "text": "Night holds the quiet strength of stars. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1108,
+        "text": "You miss what once felt permanent. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1109,
+        "text": "Healing is choosing to live with love. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1110,
+        "text": "Stars remind us of light in darkness. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1076,
+        "text": "Healing is trusting yourself even when it’s hard. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1077,
+        "text": "Night turns whispers into thoughts. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1078,
+        "text": "Some sadness lives quietly inside. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1079,
+        "text": "You are allowed to pause and breathe. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1080,
+        "text": "Stars remind us of hope in darkness. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1081,
+        "text": "You remember the love that shaped you. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1082,
+        "text": "Healing is taking small steps forward. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1083,
+        "text": "Night stretches into endless possibilities. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1084,
+        "text": "Some losses echo for a lifetime. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1085,
+        "text": "You are allowed to choose yourself first. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1086,
+        "text": "Stars feel like silent companions to your thoughts. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1087,
+        "text": "Some grief never shows its face. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1088,
+        "text": "Healing is learning to be patient with yourself. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1089,
+        "text": "Night holds your secrets without judgment. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1090,
+        "text": "You miss people who left footprints on your heart. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1091,
+        "text": "Healing comes when you stop resisting yourself. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1092,
+        "text": "Late nights make everything feel larger than life. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1093,
+        "text": "Some love leaves a gentle ache. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1094,
+        "text": "You are allowed to start over quietly. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1095,
+        "text": "Stars shine brightest in the darkest hours. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1096,
+        "text": "Some pain never asks to be understood. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1097,
+        "text": "Healing is accepting that you are enough. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1098,
+        "text": "Night brings clarity to restless minds. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1099,
+        "text": "You grieve what once brought joy. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1100,
+        "text": "Healing is staying gentle with your heart. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1101,
+        "text": "Stars watch over your quiet nights. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1102,
+        "text": "Some memories never fade completely. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1103,
+        "text": "You are allowed to take your time to heal. 🌱",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1104,
+        "text": "Night holds the space for reflection. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1105,
+        "text": "You loved without expecting return. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1106,
+        "text": "Healing is letting go of what you cannot control. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1107,
+        "text": "Stars remind us that light exists even in darkness. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1108,
+        "text": "Some endings hurt silently. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1109,
+        "text": "You are allowed to forgive yourself. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1110,
+        "text": "Late nights give space for honest thoughts. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1111,
+        "text": "You grieve in your own rhythm. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1112,
+        "text": "Healing is choosing to keep moving forward. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1113,
+        "text": "Night softens even the sharpest edges. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1114,
+        "text": "You remember the moments that mattered most. 🌑",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1115,
+        "text": "Healing comes from embracing yourself fully. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1116,
+        "text": "Stars watch silently as you dream. 💭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1117,
+        "text": "Some pain stays quietly in your chest. 🖤",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1118,
+        "text": "You are allowed to take breaks. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1119,
+        "text": "Night makes your thoughts feel deeper. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1120,
+        "text": "You grieve even when no one sees. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1121,
+        "text": "Healing is a journey without a strict path. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1122,
+        "text": "Stars remind you of infinite possibilities. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1123,
+        "text": "Some memories are bittersweet. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1124,
+        "text": "You are allowed to put yourself first. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1125,
+        "text": "Night keeps secrets safe. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1126,
+        "text": "You loved deeply, even if it hurt. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1127,
+        "text": "Healing is learning to trust again. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1128,
+        "text": "Stars shine as if reminding you to hope. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1129,
+        "text": "Some grief stays hidden. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1130,
+        "text": "You are allowed to take your time. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1131,
+        "text": "Late nights feel like silent reflections. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1132,
+        "text": "You miss moments that cannot return. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1133,
+        "text": "Healing is staying patient with yourself. 🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1134,
+        "text": "Stars feel closer in the stillness. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1135,
+        "text": "Some endings leave gentle scars. 🕯️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1136,
+        "text": "You are allowed to feel fragile. ✨",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1137,
+        "text": "Night stretches your imagination. 🌙",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1138,
+        "text": "You grieve silently yet powerfully. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1139,
+        "text": "Healing is continuing despite the weight. 🫂",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1140,
+        "text": "Stars remind you of distant beauty. 🌌",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1141,
+        "text": "Some sorrow never fully leaves. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1142,
+        "text": "You are allowed to start anew. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1143,
+        "text": "Night holds your dreams gently. 🌫️",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1144,
+        "text": "You loved honestly, even if it hurt. 💔",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1145,
+        "text": "Healing is a quiet inner revolution. 🦋",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1146,
+        "text": "Stars shine silently over your thoughts. 🦉",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1147,
+        "text": "Some memories ache softly. 🥀",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1148,
+        "text": "You are allowed to breathe and rest. ❤️‍🩹",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 1149,
+        "text": "Night makes everything feel still. 🔭",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 1150,
+        "text": "You grieve even without witnesses. 🌧️",
+        "author": "Unknown",
+        "category": "sad"
+    },
+    {
+        "id": 1,
+        "text": "It is okay to be lost. It means you are finding your own way, not just following someone else's.",
+        "author": "Unknown",
+        "category": "healing"
+    },
+    {
+        "id": 2,
+        "text": "The stars are only visible when it is dark enough.",
+        "author": "Ralph Waldo Emerson",
+        "category": "late night"
+    },
+    {
+        "id": 3,
+        "text": "Grief is the price we pay for love.",
+        "author": "Queen Elizabeth II",
+        "category": "sad"
+    },
+    {
+        "id": 4,
+        "text": "Healing doesn’t mean the damage never existed. It means the damage no longer controls our lives.",
+        "author": "Akshay Dubey",
+        "category": "healing"
+    },
+    {
+        "id": 5,
+        "text": "Sometimes, you just need a break. In a beautiful place. Alone. To figure everything out.",
+        "author": "Unknown",
+        "category": "late night"
+    },
+    {
+        "id": 6,
+        "text": "Tears are words that need to be written.",
+        "author": "Paulo Coelho",
+        "category": "sad"
+    },
+    {
+        "id": 7,
+        "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
+        "author": "J.K. Rowling",
+        "category": "healing"
+    },
+    {
+        "id": 8,
+        "text": "The darker the night, the brighter the stars.",
+        "author": "Fyodor Dostoevsky",
+        "category": "late night"
+    },
+    {
+        "id": 9,
+        "text": "It hurts because it mattered.",
+        "author": "John Green",
+        "category": "sad"
+    },
+    {
+        "id": 10,
+        "text": "Almost everything will work again if you unplug it for a few minutes, including you.",
+        "author": "Anne Lamott",
+        "category": "healing"
+    },
+    {
+        "id": 1400,
+        "text": "Success is not for the lazy.",
+        "author": "Unknown",
+        "category": "motivation"
+    },
+    {
+        "id": 1401,
+        "text": "Small steps every day lead to big results.",
+        "author": "Unknown",
+        "category": "motivation"
+    },
+    {
+        "id": 1402,
+        "text": "Love is not perfect, but it’s worth the risk.",
+        "author": "Unknown",
+        "category": "love"
+    },
+    {
+        "id": 1403,
+        "text": "Laughter is the best therapy.",
+        "author": "Unknown",
+        "category": "humor"
+    },
+    {
+        "id": 1404,
+        "text": "Keep pushing forward no matter what.",
+        "author": "Unknown",
+        "category": "motivation"
+    },
+    {
+        "id": 1405,
+        "text": "Believe in yourself and your dreams.",
+        "author": "Unknown",
+        "category": "motivation"
+    },
+    {
+        "id": 1406,
+        "text": "Love deeply, forgive quickly.",
+        "author": "Unknown",
+        "category": "love"
+    },
+    {
+        "id": 1407,
+        "text": "A good laugh can change your whole day.",
+        "author": "Unknown",
+        "category": "humor"
+    },
+    {
+        "id": 1408,
+        "text": "Motivation comes from within, not from others.",
+        "author": "Unknown",
+        "category": "motivation"
+    },
+    {
+        "id": 1409,
+        "text": "Keep pushing forward no matter what.",
+        "author": "Unknown",
+        "category": "motivation"
+    },
+    {
+        "id": 1410,
+        "text": "Believe in yourself and your dreams.",
+        "author": "Unknown",
+        "category": "motivation"
+    },
+    {
+        "id": 1411,
+        "text": "Love deeply, forgive quickly.",
+        "author": "Unknown",
+        "category": "love"
+    },
+    {
+        "id": 1412,
+        "text": "A good laugh can change your whole day.",
+        "author": "Unknown",
+        "category": "humor"
+    },
+    {
+        "id": 19,
+        "text": "Motivation comes from within, not from others.",
+        "author": "Unknown",
+        "category": "motivation"
+    },
+    {
+        "id": 20,
+        "text": "Cherish the moments that make you smile.",
+        "author": "Unknown",
+        "category": "love"
+    },
+    {
+        "id": 21,
+        "text": "Humor is the best way to survive tough days.",
+        "author": "Unknown",
+        "category": "humor"
+    },
+    {
+        "id": 22,
+        "text": "Every step counts, no matter how small.",
+        "author": "Unknown",
+        "category": "motivation"
+    },
+    {
+        "id": 23,
+        "text": "Love is the glue that holds everything together.",
+        "author": "Unknown",
+        "category": "love"
+    },
+    {
+        "id": 24,
+        "text": "Laugh at yourself sometimes, it’s healthy.",
+        "author": "Unknown",
+        "category": "humor"
+    },
+    {
+        "id": 25,
+        "text": "Motivation comes from within, not from others.",
+        "author": "Unknown",
+        "category": "motivation"
+    },
+    {
+        "id": 26,
+        "text": "Cherish the moments that make you smile.",
+        "author": "Unknown",
+        "category": "love"
+    },
+    {
+        "id": 27,
+        "text": "Humor is the best way to survive tough days.",
+        "author": "Unknown",
+        "category": "humor"
+    },
+    {
+        "id": 28,
+        "text": "Every step counts, no matter how small.",
+        "author": "Unknown",
+        "category": "motivation"
+    },
+    {
+        "id": 29,
+        "text": "Love is the glue that holds everything together.",
+        "author": "Unknown",
+        "category": "love"
+    },
+    {
+        "id": 30,
+        "text": "Laugh at yourself sometimes, it’s healthy.",
+        "author": "Unknown",
+        "category": "humor"
+    }
+]

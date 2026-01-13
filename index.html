@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> </title>
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🥀</text></svg>">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Playfair+Display:ital,wght@1,400;1,700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        dark: '#0a0a0a',
+                        card: '#171717',
+                        accent: '#e2e8f0',
+                        muted: '#64748b'
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        serif: ['Playfair Display', 'serif'],
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+
+<body
+    class="bg-dark text-accent min-h-screen flex flex-col items-center justify-center p-6 antialiased overflow-hidden relative transition-colors duration-700">
+
+    <!-- Ambient Background Effect -->
+    <div class="absolute inset-0 z-0 opacity-20 pointer-events-none">
+        <div class="absolute top-0 left-1/4 w-96 h-96 bg-blue-900 rounded-full mix-blend-screen filter blur-[128px]">
+        </div>
+        <div
+            class="absolute bottom-0 right-1/4 w-96 h-96 bg-purple-900 rounded-full mix-blend-screen filter blur-[128px]">
+        </div>
+    </div>
+
+    <!-- UI Container -->
+    <main class="relative z-10 w-full max-w-2xl flex flex-col gap-12" id="app">
+
+        <!-- Header / Nav -->
+        <nav class="flex justify-between items-center opacity-0 translate-y-[-20px] animate-fade-in-down">
+            <h1 class="text-sm tracking-[0.2em] font-light uppercase text-muted">Motivation / <span
+                    id="current-category-label" class="text-accent transition-colors duration-300">All</span></h1>
+            <button id="show-favorites-btn" class="hover:text-white transition-colors duration-300"
+                aria-label="Favorites">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                    stroke="currentColor" class="w-6 h-6">
+                    <path stroke-linecap="round" stroke-linejoin="round"
+                        d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z" />
+                </svg>
+            </button>
+        </nav>
+
+        <!-- Quote Card -->
+        <section class="flex flex-col gap-6 text-center">
+
+            <div id="quote-container" class="opacity-0 transition-opacity duration-700 ease-in-out">
+                <p id="quote-text"
+                    class="font-serif text-3xl md:text-5xl lg:text-6xl font-medium leading-tight italic text-amber-50 drop-shadow-lg mb-6">
+                    "Loading..."
+                </p>
+                <cite id="quote-author"
+                    class="block text-sm md:text-base font-sans tracking-widest text-muted not-italic uppercase transition-opacity">
+                    — Unknown
+                </cite>
+            </div>
+
+            <div class="flex justify-center gap-4 mt-8 opacity-0 translate-y-[20px] animate-fade-in-up">
+                <button id="favorite-btn"
+                    class="p-3 rounded-full bg-card hover:bg-neutral-800 transition-all duration-300 group border border-neutral-800"
+                    aria-label="Like Quote">
+                    <svg id="favorite-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                        stroke-width="1.5" stroke="currentColor"
+                        class="w-5 h-5 group-hover:stroke-red-500 transition-colors duration-300">
+                        <path stroke-linecap="round" stroke-linejoin="round"
+                            d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z" />
+                    </svg>
+                </button>
+                <button id="new-quote-btn"
+                    class="px-8 py-3 rounded-full bg-accent text-dark font-medium hover:bg-white transition-all duration-300 transform hover:scale-105 shadow-[0_0_20px_rgba(255,255,255,0.1)]">
+                    Next Quote
+                </button>
+            </div>
+
+        </section>
+
+        <!-- Category Selector -->
+        <div class="flex justify-center gap-2 md:gap-4 flex-wrap opacity-0 animate-fade-in delay-200">
+            <button data-category="sad"
+                class="category-btn px-4 py-2 rounded-lg border border-neutral-800 text-xs md:text-sm uppercase tracking-wider text-muted hover:text-white hover:border-neutral-600 transition-all duration-300">
+                Sad
+            </button>
+            <button data-category="healing"
+                class="category-btn px-4 py-2 rounded-lg border border-neutral-800 text-xs md:text-sm uppercase tracking-wider text-muted hover:text-white hover:border-neutral-600 transition-all duration-300">
+                Healing
+            </button>
+            <button data-category="late night"
+                class="category-btn px-4 py-2 rounded-lg border border-neutral-800 text-xs md:text-sm uppercase tracking-wider text-muted hover:text-white hover:border-neutral-600 transition-all duration-300">
+                Late Night
+            </button>
+            <button data-category="motivation"
+                class="category-btn px-4 py-2 rounded-lg border border-neutral-800 text-xs md:text-sm uppercase tracking-wider text-muted hover:text-white hover:border-neutral-600 transition-all duration-300">
+                Motivation
+            </button>
+            <button data-category="love"
+                class="category-btn px-4 py-2 rounded-lg border border-neutral-800 text-xs md:text-sm uppercase tracking-wider text-muted hover:text-white hover:border-neutral-600 transition-all duration-300">
+                Love
+            </button>
+            <button data-category="humor"
+                class="category-btn px-4 py-2 rounded-lg border border-neutral-800 text-xs md:text-sm uppercase tracking-wider text-muted hover:text-white hover:border-neutral-600 transition-all duration-300">
+                Humor
+            </button>
+        </div>
+
+    </main>
+
+    <!-- Favorites Modal -->
+    <div id="favorites-modal"
+        class="fixed inset-0 z-50 flex items-center justify-center bg-black/90 backdrop-blur-sm opacity-0 pointer-events-none transition-opacity duration-300">
+        <div class="w-full max-w-lg h-[80vh] bg-card border border-neutral-800 rounded-2xl p-6 flex flex-col shadow-2xl transform scale-95 transition-transform duration-300"
+            id="favorites-content">
+            <div class="flex justify-between items-center mb-6">
+                <h2 class="text-xl font-serif italic text-white">Your Collection</h2>
+                <button id="close-favorites-btn" class="text-muted hover:text-white transition-colors">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                        stroke="currentColor" class="w-6 h-6">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                </button>
+            </div>
+            <div id="favorites-list" class="flex-1 overflow-y-auto space-y-4 pr-2 custom-scrollbar">
+                <p class="text-center text-muted text-sm mt-10">No favorites yet.</p>
+            </div>
+            <button id="clear-favorites-btn"
+                class="mt-4 text-xs text-red-400 hover:text-red-300 underline self-center">Clear All</button>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/app.js"></script>
+</body>
+
+</html>
